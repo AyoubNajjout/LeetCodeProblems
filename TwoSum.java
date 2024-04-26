@@ -18,7 +18,7 @@
 //Input: nums = [3,3], target = 6
 //Output: [0,1]
 
-class Solution {
+class TwoSum {
     public int[] twoSum(int[] nums, int target) {
         int l = nums.length;
         for (int i = 0 ; i<l ; i++){
